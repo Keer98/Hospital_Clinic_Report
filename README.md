@@ -1,6 +1,6 @@
 <h1>Hosipital Clinic Report</h1>
 
-<h2>KPI's:</h2>h2>
+<h2>KPI's:</h2>
 
 1. Average Wait Time: Discover how long patients typically wait before their appointments. Uncover patterns and trends that shed light on the efficiency of our healthcare system.
 
